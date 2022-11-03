@@ -8,7 +8,7 @@ Superstruct is a painter app that allows the user and client build a proposal an
 
 This app is best viewed on a mobile device.
 
-## Screen Cap
+## Screen Caps
 
 ![screencap1](documentation/images/screenshot1.png) ![screencap2](documentation/images/screenshot2.png)
 ![screencap3](documentation/images/screenshot3.png) ![screencap4](documentation/images/screenshot4.png)
